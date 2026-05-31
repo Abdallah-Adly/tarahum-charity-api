@@ -1,0 +1,1 @@
+export type IRequestLogin = { email: string; password: string };
